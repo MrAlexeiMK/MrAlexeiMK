@@ -10,8 +10,11 @@
 </p>
 
 ### Technical Stack
-*   ..
+*   Java (+ Java SE/EE/FX, Java Spring, JPA, Servlets, Android), Python (+ numpy, tensorflow), C++ (+ Windows Forms), PHP (+ memcached), JS (+ jQuery, Ajax)
+*   SQL (+ MySQL, PostgreSQL, SQLite)
+*   Git, GitHub, Bitbucket, Gitea
+*   Maven, Gradle, Nexus Repository Manager
 
 ### My opensource projects
 
-*   ...
+*   <a href="https://github.com/MrAlexeiMK/Chess">Chess</a> - chess with Artificial Intelligence with Python server with sockets, Web PHP and Android clients and C++ Windows Forms app
