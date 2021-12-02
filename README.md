@@ -17,4 +17,6 @@
 
 ### My opensource projects
 
-*   <a href="https://github.com/MrAlexeiMK/Chess">Chess</a> - chess with Artificial Intelligence with Python server with sockets, Web PHP and Android clients and C++ Windows Forms app
+*   <a href="https://github.com/MrAlexeiMK/Chess">Chess</a> - chess with Artificial Intelligence with Python server with sockets, Web PHP and Android clients and C++ Windows Forms application
+*   <a href="https://github.com/MrAlexeiMK/GraphGenerator">GraphGenerator</a> - JavaFX 3D application to generate graph from <a href="https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/">rules</a>
+*   
