@@ -6,8 +6,10 @@
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAlexeiMK&layout=compact"/></a>
 </p>
 <p align='center'>
-   My personal site: <a href='https://mralexeimk.github.io/'>link</a>  
    Reach me: <a href='mailto:mralexeimk@yandex.ru'>mralexeimk@yandex.ru</a>
+</p>
+<p align='center'>
+   My personal site: <a href='https://mralexeimk.github.io/'>link</a>
 </p>
 
 ### Technical Stack
