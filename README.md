@@ -8,9 +8,6 @@
 <p align='center'>
    Reach me: <a href='mailto:mralexeimk@yandex.ru'>mralexeimk@yandex.ru</a>
 </p>
-<p align='center'>
-   My personal site: <a href='https://mralexeimk.github.io/'>LINK</a>
-</p>
 
 ### Technical Stack
 *   Java (+ Java SE/EE/FX, Java Spring, JPA, Servlets, Android, Bukkit API, Lombok), Python (+ numpy, tensorflow, jupyter notebook), C++ (+ Windows Forms), PHP (+ memcached), JS (+ jQuery, Ajax)
