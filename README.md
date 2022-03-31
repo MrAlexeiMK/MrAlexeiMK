@@ -17,7 +17,7 @@
 
 ### My opensource projects
 
-*   <a href="https://github.com/MrAlexeiMK/ChessAI">ChessAI</a> - Upgraded C++ Windows Forms application to play Chess with Artificial Intelligence (2022)
+*   <a href="https://github.com/MrAlexeiMK/ChessAI">ChessAI</a> - Upgraded C++ Windows Forms application to play Chess with Artificial Intelligence by Monte-Carlo Tree (2022)
 *   <a href="https://github.com/MrAlexeiMK/Objector">Objector</a> - JavaFX application to train/query Convolutional Neural Network (without third party libraries) from webcam gui (2021-2022)
 *   <a href="https://github.com/MrAlexeiMK/Chess">Chess</a> - Chess with Artificial Intelligence with Python server with sockets, Web PHP and Android clients and C++ Windows Forms application (2021)
 *   <a href="https://github.com/MrAlexeiMK/GraphGenerator">GraphGenerator</a> - JavaFX 3D application to generate graph from input <a href="https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/">rules</a> (2021)
