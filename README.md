@@ -8,7 +8,7 @@
 </p>
 
 ### Technical Stack
-*   Java (+ Java SE/EE/FX, Swing, JPA, Servlets, Android, Bukkit API, Lombok), Python (+ numpy, tensorflow, jupyter notebook), C++ (+ Windows Forms), PHP (+ memcached), JS (+ jQuery, Ajax)
+*   Java (+ Java SE/FX, Swing, JPA, Servlets, Android, Bukkit API, Lombok), Python (+ numpy, tensorflow, jupyter notebook), C++ (+ Windows Forms), PHP (+ memcached), JS (+ jQuery, Ajax)
 *   SQL (+ MySQL, PostgreSQL, SQLite)
 *   Git, GitHub, Bitbucket, Gitea
 *   Maven, Gradle, Nexus Repository Manager
