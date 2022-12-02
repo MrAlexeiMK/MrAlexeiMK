@@ -17,3 +17,6 @@
 *   <a href="http://matrixx.online/">MatriX</a> - <a href="https://github.com/MrAlexeiMK/MatriX">sources</a> (2022)
 *   <a href="https://github.com/MrAlexeiMK/ChessAI/raw/main/Chess%20by%20MrAlexeiMK.msi">ChessAI</a> - <a href="https://github.com/MrAlexeiMK/ChessAI">sources</a> (2021-2022)
 *   <a href="https://github.com/MrAlexeiMK/Objector/raw/main/Objector.jar">Objector</a> - <a href="https://github.com/MrAlexeiMK/Objector">sources</a> (2021-2022)
+
+### Closed Source Projects
+*   <a href="https://yedom.ru/">Yedom</a> - <a href="https://github.com/Yedom">organization</a> (2022)
