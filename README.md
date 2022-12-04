@@ -1,8 +1,11 @@
+
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=MrAlexeiMK&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=MrAlexeiMK&show_icons=true&count_private=true"/></a>
+   <img src="https://raw.githubusercontent.com/MrAlexeiMK/github-stats/master/generated/overview.svg#gh-dark-mode-only" width="400"></img>  
+   <img src="https://raw.githubusercontent.com/MrAlexeiMK/github-stats/master/generated/overview.svg#gh-light-mode-only" width="400"></img>  
+   <img src="https://raw.githubusercontent.com/MrAlexeiMK/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="400"></img>  
+   <img src="https://raw.githubusercontent.com/MrAlexeiMK/github-stats/master/generated/languages.svg#gh-light-mode-only" width="400"></img> 
 </p>
+
 <p align='center'>
    Reach me: <a href='mailto:mralexeimk@yandex.ru'>mralexeimk@yandex.ru</a>
 </p>
