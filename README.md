@@ -11,10 +11,10 @@
 </p>
 
 ### Technical Stack
-*   Java (+ Java SE/FX, Spring, JPA, Servlets, Android, Bukkit API, JUnit, Lombok), Python (+ numpy, tensorflow, jupyter notebook)
+*   Java (+ Spring Boot, Spring MVC, Spring Security, JPA, Hibernate, Bukkit API, JUnit, Lombok), Python (+ numpy, tensorflow, jupyter notebook)
 *   SQL (+ MySQL, PostgreSQL, SQLite)
 *   Git, GitHub, Bitbucket, Gitea
-*   Maven, Gradle, Nexus Repository Manager
+*   Maven, Gradle, Nexus Repository Manager, Kafka
 
 ### Open Source Projects
 *   <a href="http://matrixx.online/">MatriX</a> - <a href="https://github.com/MrAlexeiMK/MatriX">sources</a> (2022)
